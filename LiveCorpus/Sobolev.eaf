@@ -1752,7 +1752,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts467" TIME_SLOT_REF2="ts496">
-                <ANNOTATION_VALUE>ааа // хорошо // ааа / ну расскажите... ну так представьте / то есть вы думаете никаких / никаких не будет по этому поводу проблем //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа // хорошо // ааа / ну расскажите ну так представьте / то есть вы думаете никаких / никаких не будет по этому поводу проблем //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6136,7 +6136,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a931" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-                <ANNOTATION_VALUE>расскажите...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>расскажите</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
