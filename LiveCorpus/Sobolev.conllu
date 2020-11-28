@@ -847,7 +847,7 @@
 844	ааа	ааа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#133.946#134.117
 845	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#134.117#134.288
 846	ну	ну	PART	_	_	_	_	_	words@iau1978m#@iau1978m#134.288#134.459
-847	расскажите...	расскажите...	NOUN	_	Degree=Pos	_	_	_	words@iau1978m#@iau1978m#134.459#134.63
+847	расскажите	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#134.459#134.63
 848	ну	ну	PART	_	_	_	_	_	words@iau1978m#@iau1978m#134.63#134.801
 849	так	так	ADV	_	Degree=Pos	_	_	_	words@iau1978m#@iau1978m#134.801#134.972
 850	представьте	представить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#134.972#135.143
